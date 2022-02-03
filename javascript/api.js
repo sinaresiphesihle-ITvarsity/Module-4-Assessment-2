@@ -666,7 +666,7 @@ function init() {
     $("#img3-1-draggable").draggable({
         snap: ".puzzle-grid-drop",
         drag: function () {
-            $("#img1-1-draggable").css("transform", "scale(1)");
+            $("#img3-1-draggable").css("transform", "scale(1)");
         },
         snapMode: "inner"
     });
@@ -674,7 +674,7 @@ function init() {
     $("#img3-2-draggable").draggable({
         snap: ".puzzle-grid-drop",
         drag: function () {
-            $("#img1-1-draggable").css("transform", "scale(1)");
+            $("#img3-2-draggable").css("transform", "scale(1)");
         },
         snapMode: "inner"
     });
@@ -683,7 +683,7 @@ function init() {
     $("#img3-3-draggable").draggable({
         snap: ".puzzle-grid-drop",
         drag: function () {
-            $("#img1-1-draggable").css("transform", "scale(1)");
+            $("#img3-3-draggable").css("transform", "scale(1)");
         },
         snapMode: "inner"
     });
