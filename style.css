@@ -60,11 +60,11 @@ body{
 
 #img1-1-draggable{
     left: 611px;
-    top: 200px;
+    top: 0px;
 }
 #img1-2-draggable{
     left: 610px;
-    top: 400px;
+    top: 0px;
 }
 #img1-3-draggable{
     left: 610px;
@@ -73,10 +73,10 @@ body{
 
 
 #img2-1-draggable{
-    top: 0px;
+    top: 200px;
 }
 #img2-2-draggable{
-    top: 0px;
+    top: 200px;
 }
 #img2-3-draggable{
     top: 200px;
@@ -89,7 +89,7 @@ body{
 }
 #img3-2-draggable{
     left: 610px;
-    top: 0px;
+    top: 200px;
 }
 #img3-3-draggable{
     left: 610px;
